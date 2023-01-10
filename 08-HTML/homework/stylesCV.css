@@ -1,0 +1,54 @@
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-style: sans-serif;
+    font-size: 85px;
+    font-weight: 700px;
+    position: relative;
+    left:500px;
+}
+
+h2{
+	background-image:url("./fondodetitulo.png");
+	width: 400px;
+	font-family: fantasy;
+}
+
+p{
+	font-family: sans-serif;
+	font-style: oblique;
+    font-size: 20px;
+    color:black;
+    width: 1000px;
+
+}
+
+h3{
+	background-image: url("./fondodetitulo2.png");
+	width: 400px;
+	font-family: fantasy;
+}
+
+.divClass{
+	visibility: hidden;
+}
+
+img{
+	visibility: visible;
+	position: absolute;
+	right:100px;
+	top:100px;
+	width: 200px;
+	height: 150px;
+}
+
+footer{
+	font-family: sans-serif;
+	color:black;
+	position: fixed;
+	bottom:30px;
+	right:30px;
+}
