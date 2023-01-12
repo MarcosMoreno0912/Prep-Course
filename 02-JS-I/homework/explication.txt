@@ -1,0 +1,15 @@
+
+VARIABLES: una variable sería como crear un sobre de papel, en el que luego pondremos algo adentro. Es decir que se le asignará un valor dentro de ese sobre.
+
+STRINGS: son un tipo de dato que tienen la forma de una cadena, dónde cada eslabon es un caracter o una letra, que puede formar una palabra cualquiera. Siempre se debe poner entre comillas.
+
+FUNCIÓN: una función sería como una caja sorpresa, de la cual cuando uno la abre, dentro de ella se ejecuta un resorte con un payaso por ej. Y así mismo, podemos hacer que esa misma caja, haga diferentes cosas, por ej. hacer que salte una pelota al abrirla, o ejecutar un sonido.
+Entonces, al invocar una función, es decir al abrir la caja, se ejecutará una acción que puede devolver un resultado.
+
+ARGUMENTOS: un argumento, siguiendo el ejemplo de la caja, sería un valor que se le asigna a la función. Por ej, un argumento puede ser, al abrir la caja, puede salir un Payaso, una pelota, un sonido, etc.
+
+Return: es una herramienta que nos sirve para devolver un valor en determinada situación. Por ej, si quisiésemos programar una alarma para despertarnos al día siguiente en un reloj. El reloj funcionará de manera normal hasta la hora indicada, en ese entonces se ejecutará la alarma y nos devolverá un alerta con sonido o movimiento.
+ 
+DECLARACIONES IF: es una condición que asignamos para saber el valor de verdad de algo. Por ej, si le decimos a nuestro perro que si se porta bien lo llevaremos al parque. Le estamos asignando una condición, si se porta bien, es true, por la tanto irá al parque. Caso contrario será false, y no podrá ir a pasear.
+
+VALORES BOOLEANOS: como se mencionó más arriba, True y False son valores de verdad. Podemos usarlos en funciones, y funcionan para comprobar si algo es verdadero o falso según un determinado valor.
