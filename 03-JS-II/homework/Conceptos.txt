@@ -1,0 +1,12 @@
+
+Un bucle for, es un sistema de acciones que funcionarán en cadena evaluando los datos que le hayamos ingresado al principio.
+Todo esto se hará de forma continua hasta que lea una expresión en particular que necesitemos encontrar y entonces nos devolverá ese resultado y se detendrá el bucle.
+
+&& este operador llamado "and" o "y" lo que hará es comparar dos valores, y determinará si es verdadero o falso.
+En este caso dirá que es verdadero sólo si ambos valores son True.
+
+|| llamado "or", este operador sólo necesita que una o ambas expresiones sea verdadera para establecer como True. 
+Y de igual manera si una o ambas son false, la operación dará cómo resultado, False.
+
+! el signo de exclamación representa al operador de la negación. lo que hará básicamente, es contradecir el valor de veracidad de una expresión. 
+Si algo que es verdadero le asignamos el operador "!", automáticamente cambiará a false. Y viceversa.
