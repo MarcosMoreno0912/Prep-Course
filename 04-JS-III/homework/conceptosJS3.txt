@@ -1,0 +1,2 @@
+
+Arrays: los arrays son cómo una locomotora, en la que podemos unir elementos cómo si fueran los vagones de un tren. Cada vagón tendrá un nombre o color que lo identifique. Y también podremos acceder a cualquiera de ellos en un orden empezando a contar desde cero. El vagon 0, es el primero después de la locomotora llamada "Array".
