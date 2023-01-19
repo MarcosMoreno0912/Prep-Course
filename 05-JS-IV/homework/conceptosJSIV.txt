@@ -1,0 +1,14 @@
+ 
+ Objetos: un objeto podemos relacionarlo con una caja, dónde dentro de ella hay información sobre un tema en particular. Por ej. supongamos que en la despensa tenemos cajas con revistas y diarios. Y cada caja (objeto), contiene revistas de distintos rubros, cómo puede ser deportes, celebridades, ciencia, etc. 
+
+
+ Propiedades: siguiendo el ejemplo de la caja, las propiedades son los ítems o los temas que contienen las cajas dentro suyas. Por ej. El objeto llamado 'Revista', contiene las propiedades "futbol", "motociclismo", "basquetbol", etc.
+
+
+ Métodos: dentro de un objeto nos podemos encontrar con métodos, éstos a su vez nos sirven para guardar funciones. Entonces, con un método podremos realizar cualquier acción dentro de un objeto.
+
+
+ bucle For...in: la forma(sintaxis) del bucle, consta de una variable que declaramos con una palabra clave, "in" y el nombre del objeto al que queremos inspeccionar, todo esto entre paréntesis. De esta forma el bucle, revisará o al menos verá cada valor del objeto.
+
+
+ Notación de puntos vs notación de corchetes: los dos cumplen la misma finalidad, que es la de llamar o acceder a algún valor. La notación de puntos es más sencilla y rápida. La notación de corchetes es útil cuando se la usa en ocasiones más complejas dónde todo debe estar mejor especificado. La primera consta de poner un punto (.) entre el nombre del objeto y el de la clave. Mientras que la notación de corchetes es así: nombre[clave];
