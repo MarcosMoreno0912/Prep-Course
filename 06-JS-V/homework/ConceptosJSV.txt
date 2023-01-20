@@ -1,0 +1,5 @@
+
+Prototype: es una herramienta para referenciar métodos con un objeto nuevo, ahorrando mucho espacio de memoria en la PC. Al crear un objeto nuevo, el objeto heredará casi las mismas propiedades, y decimos casi, porque en caso de que el objeto no tenga alguna, se buscará en el prototipo si realmente existe dicha propiedad.
+
+
+Constructores(de clases): los constructores son la guía en la que crearemos las propiedades necesarias que le serán asignadas a un objeto. Es decir, que funciona cómo una receta de cocina. El objeto, es el nombre de la comida, por ej. Lasagna. Las propiedades son los ingredientes, a los que le pasaremos distintos valores cómo las cantidades. El constructor, vendría siendo la hoja dónde se encuentra dicha receta en un libro de cocina.
