@@ -1,0 +1,2 @@
+
+Funciones Callback: estas tienen la caractrística que se comportan como argumentos dentro de otra función. Y las podemos invocar o llamar en cualquier momento. Es otra herramienta que nos permite crear "atajos" y ahorrarnos escribir mucho código, aparte de la utilidad que tienen.
